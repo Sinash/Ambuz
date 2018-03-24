@@ -1,0 +1,64 @@
+/*
+Theme Name: Ambuz
+Theme URI: https://wordpress.org/themes/twentyseventeen/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
+Version: 1.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentyseventeen
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+html {
+	font-family: sans-serif;
+	line-height: 1.15;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	background-color: #000000;
+	margin: 0;
+}
+.details {
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+	left: 0;
+	margin-left: auto;
+	margin-right: auto;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: calc(50% - 86px);
+	width: 350px;
+	z-index: 99;
+}
+span {
+	display: block;
+	padding-bottom: 8px;
+}
+span.name {
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 44px;
+}
+span.contact {
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+}
+span.links {
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+}
+span.links a {
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+}
