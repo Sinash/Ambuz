@@ -47,16 +47,13 @@ span.name {
 	font-family: 'Roboto', sans-serif;
 	font-size: 44px;
 }
-span.contact {
+span.contact,
+span.contact a {
 	color: #ffffff;
 	font-family: 'Roboto', sans-serif;
 	font-size: 17px;
 }
-span.links {
-	color: #ffffff;
-	font-family: 'Roboto', sans-serif;
-	font-size: 17px;
-}
+span.links,
 span.links a {
 	color: #ffffff;
 	font-family: 'Roboto', sans-serif;
