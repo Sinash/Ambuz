@@ -11,7 +11,7 @@
  * Enqueue scripts and styles.
  */
 function ambuz_scripts() {
-	$asset_version = '1.2';
+	$asset_version = '2.0';
 	// Add google font.
 	wp_enqueue_style( 'ambus-font', 'https://fonts.googleapis.com/css?family=Roboto:300i,400,700', array(), null );
 
