@@ -1,10 +1,10 @@
-if ( 900 > document.body.clientWidth ) {	
+//if ( 900 > document.body.clientWidth ) {	
 	var SCREEN_WIDTH = window.innerWidth;
 	var SCREEN_HEIGHT = window.innerHeight;
-} else {
-	var SCREEN_WIDTH = 900;
-	var SCREEN_HEIGHT = 600;
-}
+//} else {
+//	var SCREEN_WIDTH = 900;
+//	var SCREEN_HEIGHT = 600;
+//}
 
 var RADIUS = 110;
 

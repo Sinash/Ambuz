@@ -14,5 +14,5 @@ get_header();
 			<span class="links"><a href="https://github.com/Sinash" target="_blank">https://github.com/Sinash</a></span>
 			<span class="links"><a href="https://www.facebook.com/shajahan.sinash" target="_blank">https://www.facebook.com/shajahan.sinash</a></span>
 		</div>
-		<canvas id="world" width="900" height="600" ><p class="noCanvas">You need a <a href="http://www.google.com/chrome">modern browser</a> to view this.</p></canvas>
+		<canvas id="world" width="100%" height="100%" ><p class="noCanvas">You need a <a href="http://www.google.com/chrome">modern browser</a> to view this.</p></canvas>
 <?php get_footer();
